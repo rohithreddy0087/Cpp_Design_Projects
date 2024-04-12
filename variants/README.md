@@ -1,12 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Tgny1nfN)
-# WI24 - Assignment 1
+# Variant Class
 
 Design, test, and build our own variant class!
-#### Due Jan 22, 11:30pm (PST)
+
 
 ## Introduction
 
-This assignment has three parts:
+This project has three parts:
 
 1. First, you're going to implement your own version of a `variant` class.
 2. Second, you're going to implement tests to ensure that your class works correctly -- then check it into git.
