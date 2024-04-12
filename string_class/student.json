@@ -1,0 +1,15 @@
+{
+  "course": "ECE141a",
+  "term"  : "WI24",
+  "assignment"         : 2,
+  "due_date_6"         : "Jan. 29, 11:30p",
+  "total_effort_hours" : 20,
+  "students": [
+    {
+      "name " : "Rohith Reddy Rachala",
+      "pid"   : "A59015793",
+      "email" : "rrachala@ucsd.edu",
+      "os"    : "linux"
+    }
+  ]
+}

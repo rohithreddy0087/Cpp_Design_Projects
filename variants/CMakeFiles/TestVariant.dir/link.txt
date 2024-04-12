@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TestVariant.dir/Source/TestVariant.cpp.o -o TestVariant  -Wl,-rpath,/home/rrr/anaconda3/lib /home/rrr/anaconda3/lib/libgtest.so.1.10.0 -lpthread 
